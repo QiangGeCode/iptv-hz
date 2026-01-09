@@ -92,9 +92,6 @@ http://192.168.1.23:4022/rtp/233.50.201.136:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.v1.mk/logo/浙江少儿.png" group-title="浙江省频道", 浙江少儿
 http://192.168.1.23:4022/rtp/233.50.201.138:5140
 
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://epg.v1.mk/logo/之江纪录.png" group-title="浙江省频道", 之江纪录
-http://192.168.1.23:4022/rtp/233.50.201.71:5140
-
 #EXTINF:-1 tvg-id="69" tvg-name="中国蓝直播" tvg-logo="https://epg.v1.mk/logo/中国蓝直播.png" group-title="浙江省频道",中国蓝直播
 http://192.168.1.23:4022/rtp/233.50.201.108:5140
 
