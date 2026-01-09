@@ -71,37 +71,6 @@ http://192.168.1.23:4022/rtp/233.50.200.113:5140
 http://192.168.1.23:4022/rtp/233.50.201.98:5140
 
 
-##########################################################################################################################################################################################################
-# 中国国际电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=f9ba484ea7ed9bf19f8afdf3&lemmaTitle=中国国际电视台&lemmaId=20351311&starMapFrom=lemma_starMap&fromModule=lemma_starMap
-##########################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN
-http://192.168.1.23:4022/rtp/233.50.201.126:5140
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 西班牙语
-http://192.168.1.23:4022/rtp/233.50.201.36:5140
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 法语
-http://192.168.1.23:4022/rtp/233.50.201.37:5140
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 阿拉伯语
-http://192.168.1.23:4022/rtp/233.50.201.38:5140
-
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 俄语
-http://192.168.1.23:4022/rtp/233.50.201.39:5140
-
-
-###########################################################################################
-# 中国教育电视台频道 参考：https://baike.baidu.com/item/中国教育电视台/2834503#5
-###########################################################################################
-
-#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视教育", 中国教育电视台 1
-http://192.168.1.23:4022/rtp/233.50.200.169:5140
-
-#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视教育", 中国教育电视台 4
-http://192.168.1.23:4022/rtp/233.50.200.162:5140
-
-
 ########################################################################################################################
 # 卫视频道 参考：https://www.tvmao.com/program/playing/satellite
 ########################################################################################################################
@@ -220,7 +189,6 @@ http://192.168.1.23:4022/rtp/233.50.200.191:5140
 http://192.168.1.23:4022/rtp/233.50.200.192:5140
 
 
-
 ########################################################################################################################################################################################################################################################################################
 # 浙江省频道 参考： https://baike.baidu.com/starmap/view?nodeId=097c78352a76f0e4534957c9&lemmaTitle=%E6%B5%99%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&lemmaId=3929354&starMapFrom=lemma_starMap&fromModule=lemma_starMap
 ########################################################################################################################################################################################################################################################################################
@@ -276,68 +244,6 @@ http://192.168.1.23:4022/rtp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="余杭新闻频道" tvg-name="余杭新闻频道" tvg-logo="https://epg.v1.mk/logo/余杭新闻频道.png" group-title="浙江", 余杭新闻频道
 http://192.168.1.23:4022/rtp/233.50.201.159:5140
 
-
-
-####################################################################################################################################################################################################################################
-# 宁波频道，宁波5少儿频道已停播 参考： https://baike.baidu.com/item/宁波广播电视集团/7217257?fromtitle=宁波电视台&fromid=2764911#5
-####################################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="宁波新闻" tvg-name="宁波新闻" tvg-logo="https://epg.v1.mk/logo/宁波新闻.png" group-title="浙江", 宁波-1 新闻
-http://192.168.1.23:4022/rtp/233.50.201.168:5140
-
-#EXTINF:-1 tvg-id="宁波经济" tvg-name="宁波经济" tvg-logo="https://epg.v1.mk/logo/宁波经济.png" group-title="浙江", 宁波-2 经济
-http://192.168.1.23:4022/rtp/233.50.201.178:5140
-
-#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="https://epg.v1.mk/logo/宁波都市.png" group-title="浙江", 宁波-3 都市
-http://192.168.1.23:4022/rtp/233.50.201.179:5140
-
-#EXTINF:-1 tvg-id="宁波影视剧" tvg-name="宁波影视剧" tvg-logo="https://epg.v1.mk/logo/宁波影视剧.png" group-title="浙江", 宁波-4 影视剧
-http://192.168.1.23:4022/rtp/233.50.201.180:5140
-
-# #EXTINF:-1 tvg-id="宁波少儿" tvg-name="宁波少儿" tvg-logo="https://epg.v1.mk/logo/宁波少儿.png" group-title="浙江", 宁波少儿
-# http://192.168.1.23:4022/rtp/233.50.201.181:5140
-
-
-####################################################################################################################################################################################################################################
-# 浙江其他市级频道 
-####################################################################################################################################################################################################################################
-
-# 参考：https://baike.baidu.com/item/衢州广电传媒集团/57121821?fromModule=search-result_lemma#5
-#EXTINF:-1 tvg-id="衢州" tvg-name="衢州" tvg-logo="https://epg.v1.mk/logo/衢州新闻综合.png" group-title="浙江", 衢州
-http://192.168.1.23:4022/rtp/233.50.201.155:5140
-
-# 参考：https://zh.wikipedia.org/wiki/嘉兴市广播电视集团
-#EXTINF:-1 tvg-id="嘉兴" tvg-name="嘉兴" group-title="浙江", 嘉兴 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.163:5140
-
-# 参考：https://zh.wikipedia.org/wiki/台州广播电视总台#电视频道
-#EXTINF:-1 tvg-id="台州" tvg-name="台州" group-title="浙江", 台州 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.157:5140
-
-# 参考：https://zh.wikipedia.org/wiki/湖州广播电视总台#电视频道
-#EXTINF:-1 tvg-id="湖州" tvg-name="湖州" group-title="浙江", 湖州 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.158:5140
-
-# 参考：https://zh.wikipedia.org/wiki/温州广播电视传媒集团#现有电视频道
-#EXTINF:-1 tvg-id="温州" tvg-name="温州" group-title="浙江", 温州 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.87:5140
-
-# 参考：https://zh.wikipedia.org/wiki/丽水市广播电视总台#电视频道
-#EXTINF:-1 tvg-id="丽水" tvg-name="丽水" group-title="浙江", 丽水 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.162:5140
-
-#EXTINF:-1 tvg-id="桐乡" tvg-name="桐乡" group-title="浙江", 桐乡 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.169:5140
-
-# 参考：https://zh.wikipedia.org/wiki/绍兴市新闻传媒中心#电视服务
-#EXTINF:-1 tvg-id="绍兴" tvg-name="绍兴" tvg-logo="https://epg.v1.mk/logo/绍兴新闻综合.png" group-title="浙江", 绍兴新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.156:5140
-
-# 参考：https://zh.wikipedia.org/wiki/金華廣播電視總台#电视频道
-#EXTINF:-1 tvg-id="金华" tvg-name="金华" group-title="浙江", 金华 新闻综合
-http://192.168.1.23:4022/rtp/233.50.201.161:5140
-
-
 ########################################################################################################################
 # 上海免费 频道 参考：https://zh.wikipedia.org/wiki/上海广播电视台#免费频道
 ########################################################################################################################
@@ -355,61 +261,6 @@ http://192.168.1.23:4022/rtp/233.50.200.125:5140
 
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="上海", 上海-6 纪实人文
 http://192.168.1.23:4022/rtp/233.50.200.168:5140
-
-########################################################################################################################
-# 上海付费 频道 参考：https://zh.wikipedia.org/wiki/上海广播电视台#数字付费频道
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="上海", SiTV 金色学堂
-http://192.168.1.23:4022/rtp/233.50.200.122:5140
-
-#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="上海", SiTV 七彩戏剧
-http://192.168.1.23:4022/rtp/233.50.200.75:5140
-
-#EXTINF:-1 tvg-id="SiTV-东方财经" tvg-name="SiTV 东方财经" tvg-logo="https://assets.livednow.com/logo/上海东方财经.png" group-title="上海", SiTV 东方财经
-http://192.168.1.23:4022/rtp/233.50.200.177:5140
-
-#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="上海", SiTV 法治天地
-http://192.168.1.23:4022/rtp/233.50.200.120:5140
-
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="上海", SiTV 劲爆体育
-# 电信IPTV暂时没找到，可以使用pixman
-# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000002000029972
-
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="上海", SiTV 魅力足球
-http://192.168.1.23:4022/rtp/233.50.200.176:5140
-
-#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="上海", SiTV 乐游
-http://192.168.1.23:4022/rtp/233.50.200.148:5140
-
-#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title="上海", SiTV 动漫秀场
-http://192.168.1.23:4022/rtp/233.50.200.12:5140
-
-#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="上海", SiTV 都市剧场
-http://192.168.1.23:4022/rtp/233.50.200.11:5140
-
-#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="上海", SiTV 欢笑剧场-4K
-http://192.168.1.23:4022/rtp/233.50.200.52:5140
-
-#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="上海", SiTV 欢笑剧场
-http://192.168.1.23:4022/rtp/233.50.200.229:5140
-
-#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="上海", SiTV 生活时尚
-http://192.168.1.23:4022/rtp/233.50.200.15:5140
-
-#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="上海", SiTV 游戏风云
-http://192.168.1.23:4022/rtp/233.50.200.14:5140
-
-
-########################################################################################################################
-# 湖南付费频道 参考：https://zh.wikipedia.org/wiki/湖南广播电视台#数字付费频道
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="湖南", 湖南快乐垂钓
-http://192.168.1.23:4022/rtp/233.50.200.123:5140
-
-#EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="湖南", 湖南茶频道
-http://192.168.1.23:4022/rtp/233.50.200.124:5140
 
 
 ########################################################################################################################
@@ -432,132 +283,6 @@ http://192.168.1.23:4022/rtp/233.50.200.138:5140
 
 #EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="少儿卡通", BesTV 少儿
 http://192.168.1.23:4022/rtp/233.50.200.183:5140
-
-
-########################################################################################################################
-# 中广传播 参考：https://baike.baidu.com/item/中广传播集团有限公司/5066049#3-2
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="睛彩", 睛彩竞技
-http://192.168.1.23:4022/rtp/233.50.201.193:5140
-
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="睛彩", 睛彩篮球
-http://192.168.1.23:4022/rtp/233.50.201.194:5140
-
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="睛彩", 睛彩青少
-http://192.168.1.23:4022/rtp/233.50.201.195:5140
-
-
-
-########################################################################################################################
-# 百视通 参考：https://www.bestv.com.cn/
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" group-title="BesTV", BesTV 新闻记录
-http://192.168.1.23:4022/rtp/233.50.200.182:5140
-
-#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" group-title="BesTV", BesTV 电影 4K
-http://192.168.1.23:4022/rtp/233.50.200.185:5140
-
-#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" group-title="BesTV", BesTV 电视剧
-http://192.168.1.23:4022/rtp/233.50.201.116:5140
-
-#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="BesTV", BesTV 少儿
-http://192.168.1.23:4022/rtp/233.50.200.183:5140
-
-#EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
-http://192.168.1.23:4022/rtp/233.50.201.203:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
-http://192.168.1.23:4022/rtp/233.50.200.31:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
-http://192.168.1.23:4022/rtp/233.50.200.32:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知2
-http://192.168.1.23:4022/rtp/233.50.200.233:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
-http://192.168.1.23:4022/rtp/233.50.200.234:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知4
-http://192.168.1.23:4022/rtp/233.50.200.235:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知5
-http://192.168.1.23:4022/rtp/233.50.200.236:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知6
-http://192.168.1.23:4022/rtp/233.50.200.237:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知7
-http://192.168.1.23:4022/rtp/233.50.200.244:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知8
-http://192.168.1.23:4022/rtp/233.50.200.245:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知9
-http://192.168.1.23:4022/rtp/233.50.200.246:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知10
-http://192.168.1.23:4022/rtp/233.50.201.201:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知11
-http://192.168.1.23:4022/rtp/233.50.201.202:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知12
-http://192.168.1.23:4022/rtp/233.50.201.204:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知13
-http://192.168.1.23:4022/rtp/233.50.201.205:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知14
-http://192.168.1.23:4022/rtp/233.50.201.206:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知15
-http://192.168.1.23:4022/rtp/233.50.201.207:5140
-
-
-
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="其他", 历史
-http://192.168.1.23:4022/rtp/233.50.201.117:5140
-
-# 华数：https://itv.wasu.cn/
-#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" group-title="其他", 华数娱乐
-http://192.168.1.23:4022/rtp/233.50.201.116:5140
-
-
-########################################################################################################################
-# 浙江广播 参考：https://zh.wikipedia.org/wiki/浙江广播电视集团#广播频率
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="FM-浙江之声" tvg-name="FM-浙江之声" group-title="FM广播", FM-浙江之声
-http://192.168.1.23:4022/rtp/233.50.201.79:5140
-
-#EXTINF:-1 tvg-id="FM-浙江新闻广播" tvg-name="FM-浙江新闻广播" group-title="FM广播", FM-浙江新闻广播
-http://192.168.1.23:4022/rtp/233.50.201.80:5140
-
-#EXTINF:-1 tvg-id="FM-浙江经济广播" tvg-name="FM-浙江经济广播" group-title="FM广播", FM-浙江经济广播
-http://192.168.1.23:4022/rtp/233.50.201.81:5140
-
-#EXTINF:-1 tvg-id="FM-浙江音乐调频" tvg-name="FM-浙江音乐调频" group-title="FM广播", FM-浙江音乐调频
-http://192.168.1.23:4022/rtp/233.50.201.82:5140
-
-#EXTINF:-1 tvg-id="FM-浙江交通之声" tvg-name="FM-浙江交通之声" group-title="FM广播", FM-浙江交通之声
-http://192.168.1.23:4022/rtp/233.50.201.83:5140
-
-#EXTINF:-1 tvg-id="FM-浙江女主播电台" tvg-name="FM-浙江女主播电台" group-title="FM广播", FM-浙江女主播电台
-http://192.168.1.23:4022/rtp/233.50.201.84:5140
-
-#EXTINF:-1 tvg-id="FM-浙江城市之声" tvg-name="FM-浙江城市之声" group-title="FM广播", FM-浙江城市之声
-http://192.168.1.23:4022/rtp/233.50.201.85:5140
-
-#EXTINF:-1 tvg-id="FM-浙江民生资讯" tvg-name="FM-浙江民生资讯" group-title="FM广播", FM-浙江民生资讯
-http://192.168.1.23:4022/rtp/233.50.201.86:5140
-
-########################################################################################################################
-
 
 
 
