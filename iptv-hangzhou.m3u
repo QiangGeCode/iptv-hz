@@ -1,11 +1,28 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://assets.livednow.com/epg.xml,http://epg.51zmt.top:8000/e.xml.gz"
 
-##########################################################################################################################################################################################################
-# 全国频道
-# 参考：
-#   老张的四川频道：http://epg.51zmt.top:8000/sctvmulticast.html
-#   全国付费频道：https://zh.wikipedia.org/wiki/付费电视
+########################################################################################################################
+# 4K超高清卫视频道
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="浙江卫视超高清" tvg-name="浙江卫视超高清" tvg-logo="https://assets.livednow.com/logo/浙江卫视4K.png" group-title="4K超高清卫视", 浙江卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.104:5140
+
+#EXTINF:-1 tvg-id="东方卫视超高清" tvg-name="东方卫视超高清" tvg-logo="https://assets.livednow.com/logo/东方卫视4K.png" group-title="4K超高清卫视", 东方卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.105:5140
+
+#EXTINF:-1 tvg-id="湖南卫视超高清" tvg-name="湖南卫视超高清" tvg-logo="https://assets.livednow.com/logo/湖南卫视4K.png" group-title="4K超高清卫视", 湖南卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.106:5140
+
+#EXTINF:-1 tvg-id="江苏卫视超高清" tvg-name="江苏卫视超高清" tvg-logo="https://assets.livednow.com/logo/江苏卫视4K.png" group-title="4K超高清卫视", 江苏卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.107:5140
+
+#EXTINF:-1 tvg-id="四川卫视超高清" tvg-name="四川卫视超高清" tvg-logo="https://assets.livednow.com/logo/四川卫视4K.png" group-title="4K超高清卫视", 四川卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.109:5140
+
+#EXTINF:-1 tvg-id="山东卫视超高清" tvg-name="山东卫视超高清" tvg-logo="https://assets.livednow.com/logo/山东卫视4K.png" group-title="4K超高清卫视", 山东卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.108:5140
+
 ##########################################################################################################################################################################################################
 # 中央电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=0cbc6fa2bcd0c938f20e0463&lemmaTitle=中央电视台综合频道&lemmaId=2185492&starMapFrom=lemma_starMap&fromModule=lemma_starMap
 ##########################################################################################################################################################################################################
@@ -241,28 +258,6 @@ http://192.168.1.23:4022/rtp/233.50.200.138:5140
 
 #EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="少儿卡通", BesTV 少儿
 http://192.168.1.23:4022/rtp/233.50.200.183:5140
-
-########################################################################################################################
-# 4K超高清卫视频道
-########################################################################################################################
-
-#EXTINF:-1 tvg-id="浙江卫视超高清" tvg-name="浙江卫视超高清" tvg-logo="https://assets.livednow.com/logo/浙江卫视4K.png" group-title="4K超高清卫视", 浙江卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.104:5140
-
-#EXTINF:-1 tvg-id="东方卫视超高清" tvg-name="东方卫视超高清" tvg-logo="https://assets.livednow.com/logo/东方卫视4K.png" group-title="4K超高清卫视", 东方卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.105:5140
-
-#EXTINF:-1 tvg-id="湖南卫视超高清" tvg-name="湖南卫视超高清" tvg-logo="https://assets.livednow.com/logo/湖南卫视4K.png" group-title="4K超高清卫视", 湖南卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.106:5140
-
-#EXTINF:-1 tvg-id="江苏卫视超高清" tvg-name="江苏卫视超高清" tvg-logo="https://assets.livednow.com/logo/江苏卫视4K.png" group-title="4K超高清卫视", 江苏卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.107:5140
-
-#EXTINF:-1 tvg-id="四川卫视超高清" tvg-name="四川卫视超高清" tvg-logo="https://assets.livednow.com/logo/四川卫视4K.png" group-title="4K超高清卫视", 四川卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.109:5140
-
-#EXTINF:-1 tvg-id="山东卫视超高清" tvg-name="山东卫视超高清" tvg-logo="https://assets.livednow.com/logo/山东卫视4K.png" group-title="4K超高清卫视", 山东卫视超高清
-http://192.168.1.23:4022/rtp/233.50.202.108:5140
 
 
 
