@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://assets.livednow.com/epg.xml,http://epg.51zmt.top:8000/e.xml.gz"
 
+#EXTINF:-1 tvg-id="浙江卫视超高清" tvg-name="浙江卫视超高清" tvg-logo="https://assets.livednow.com/logo/浙江卫视4K.png" group-title="4K超高清卫视", 浙江卫视超高清
+http://192.168.1.23:4022/rtp/233.50.202.104:5140
+
 ##########################################################################################################################################################################################################
 # 中央电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=0cbc6fa2bcd0c938f20e0463&lemmaTitle=中央电视台综合频道&lemmaId=2185492&starMapFrom=lemma_starMap&fromModule=lemma_starMap
 ##########################################################################################################################################################################################################
