@@ -54,7 +54,7 @@ http://192.168.1.23:4022/rtp/233.50.200.103:5140
 http://192.168.1.23:4022/rtp/233.50.200.133:5140
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克 4K 
-#http://192.168.1.23:4022/rtp/233.50.201.63:5140
+http://192.168.1.23:4022/rtp/233.50.201.63:5140
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克
 http://192.168.1.23:4022/rtp/233.50.200.112:5140
