@@ -123,7 +123,7 @@ http://192.168.1.23:4022/rtp/233.50.200.144:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视", 海南卫视
 http://192.168.1.23:4022/rtp/233.50.200.165:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视", 广东卫视
-http://192.168.1.23:4022/rtp/233.50.200.149:5140?fcc=115.233.40.137:8027
+http://192.168.1.23:4022/rtp/233.50.201.102:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视", 天津卫视
 http://192.168.1.23:4022/rtp/233.50.200.104:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视", 河北卫视
