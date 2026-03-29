@@ -20,8 +20,10 @@ http://192.168.1.23:4022/rtp/233.50.202.108:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="4K超高清", CCTV 16 奥林匹克 4K 
 http://192.168.1.23:4022/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="4K超高清", 凤凰中文 
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="4K超高清", 凤凰卫视 
 http://192.168.1.23:4022/rtp/233.50.202.35:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="4K超高清", 凤凰中文 
+http://192.168.1.23:4022/rtp/233.50.202.36:5140?fcc=115.233.40.137:8027
 
 ##########################################################################################################################################################################################################
 # 中央电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=0cbc6fa2bcd0c938f20e0463&lemmaTitle=中央电视台综合频道&lemmaId=2185492&starMapFrom=lemma_starMap&fromModule=lemma_starMap
