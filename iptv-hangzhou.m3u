@@ -17,7 +17,7 @@ http://192.168.1.23:4022/rtp/233.50.202.107:5140?fcc=115.233.40.137:8027
 http://192.168.1.23:4022/rtp/233.50.202.109:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K超高清", 山东卫视超高清
 http://192.168.1.23:4022/rtp/233.50.202.108:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="4K超高清", CCTV 16 奥林匹克 4K 
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K超高清", CCTV 16 奥林匹克 4K 
 http://192.168.1.23:4022/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="4K超高清", 凤凰中文
 http://192.168.1.23:4022/rtp/233.50.202.35:5140?fcc=115.233.40.137:8027
