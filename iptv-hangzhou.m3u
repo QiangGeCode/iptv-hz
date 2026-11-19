@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/fanmingming/live@main/e.xml"
+#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/fanmingming/live@main/e.xml" x-tvg-url="https://cdn.jsdelivr.net/gh/fanmingming/live@main/e.xml"
 
 ########################################################################################################################
 # 4K超高清频道
